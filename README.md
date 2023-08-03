@@ -1,6 +1,6 @@
-# Annpatra
+# Annadatha
 
-  Ann Patra's designed to help to eliminate the middleman .
+  Anna Datha is designed to help to eliminate the middleman .
 
   And transform it into a platform serving larger and less fortunate members of our society gratuitously.. 
 
